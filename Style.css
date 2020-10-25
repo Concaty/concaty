@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+title{
+}
+.c{
+    font-size: 2.5rem;
+    color: lavender;
+    font-weight: 900;
+}
+header{
+    background-color: brown;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2% 15px;
+}
+header h2{
+    text-align: left;
+}
+nav a{
+    text-decoration: none;
+    padding-left: 85px;
+    color: cornsilk;
+}
+nav{
+    padding: 1%;
+}
+.home{
+    background-color:  bisque ;
+    line-height: 1.8;
+    padding: 1.5%;
+}
+h1{
+    padding-top: 2%;
+}
+p{
+    padding-top: 2%;
+}
+.follow{
+    margin-left: 40%;
+    width: 25%;
+    height: 25px;
+    text-align: center;
+    margin-top: 2%;
+}
+.btn{
+    background-image: linear-gradient(to left,  lavender bisque);
+    width: 15%;
+    height: 30px;
+    color: black;
+    margin-left: 45%;
+    margin-top: 1%;
+}
+.hh1{
+    text-align: center;
+}
+.ph{
+    text-align: center;
+}
+.About{
+    padding: 3%;
+    text-align: center;
+    line-height: 2;
+    background-color: burlywood;
+}
+h4{
+    margin: 1%;
+}
+img{
+   width: 50px;
+   height: 50px;
+}
+.demo{
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-bottom: 1%;
+}
+.services{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.type{
+    text-decoration: none;
+    color: thistle;
+    font-size: 1.5rem;
+}
+.btn{
+    box-shadow: 2px 3px 3.3px salmon; 
+    border-radius: 2%;
+}
+.no{
+    text-decoration: none;
+}
